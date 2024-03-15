@@ -1,6 +1,6 @@
 {
-    name: "Fake Money",
-    symbol: "FAKE",
-    description: "Fake money for developers to transfer back and forth.",
-    image: "https://raw.githubusercontent.com/nakhimchea/solana_token_metadata/main/meta_uri.jpeg"
+    "name": "Fake Money",
+    "symbol": "FAKE",
+    "description": "Fake money for developers to transfer back and forth.",
+    "image": "https://raw.githubusercontent.com/nakhimchea/solana_token_metadata/main/meta_uri.jpeg"
 }
